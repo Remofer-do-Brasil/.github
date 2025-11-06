@@ -1,6 +1,23 @@
 # Remofer do Brasil
-A empresa Remofer foi fundada em 1984, atuando no mercado há 40 anos, ao longo destes anos se destacando na área automotiva, especializada em injeção eletrônica, freios abs, air bag, eletrica em geral. A Remofer conta hoje com a mais alta tecnologia em equipamentos de última geração, scanners originais de várias montadoras, laboratório completo para efetuar reparos em módulos de injeção, air bag, imobilizadores, tudo testado em bancada.
 
-Técnicos treinados na própria fabrica da Bosch, Magnet Marelli, Alfatest Tecnomotor. Temos técnicos treinados no exterior, para atender a linha de carros importados, isso proporciona aos clientes qualidade e segurança no serviço. A Remofer é uma empresa familiar, onde vem sempre se destacando com sua tecnologia sempre atualizada, com equipe e cursos para garantir um bom serviço. Venha nos fazer uma visita e comprove nossa qualidade.
+A **Remofer do Brasil** foi fundada em **1984** e atua há mais de **40 anos** no mercado automotivo, destacando-se pela excelência em serviços de **injeção eletrônica, freios ABS, airbag e elétrica automotiva em geral**.
 
-Somos especializados em recuperação e reparos de modulos eletrônicos micro processados para automóveis importados, ou seja Módulos ABS , Módulos Eletronicos de Ar Condicionado, Paineis de Velocímetros, Computadores de bordo, etc.
+Contamos com **tecnologia de ponta** e **equipamentos de última geração**, incluindo **scanners originais** de diversas montadoras e um **laboratório completo** para reparos em módulos eletrônicos — como injeção, airbag e imobilizadores — todos **testados em bancada** para garantir máxima confiabilidade.
+
+Nossa equipe é composta por **técnicos altamente qualificados**, treinados nas fábricas da **Bosch**, **Magneti Marelli**, **Alfatest** e **Tecnomotor**, além de profissionais capacitados no **exterior** para atender veículos **importados** com a mesma qualidade e segurança.
+
+A **Remofer** é uma **empresa familiar** que se mantém na vanguarda da tecnologia automotiva, investindo continuamente em **capacitação técnica** e **atualização de equipamentos** para oferecer o melhor serviço possível.
+
+### Especialidades
+
+Somos especializados na **recuperação e reparo de módulos eletrônicos microprocessados** para veículos nacionais e importados, incluindo:
+
+- Módulos **ABS**
+- Módulos **eletrônicos de ar-condicionado**
+- **Painéis de velocímetro**
+- **Computadores de bordo**
+- E outros sistemas eletrônicos automotivos
+
+---
+
+> Venha nos visitar e comprove a **qualidade**, **tecnologia** e **confiança** que só a Remofer do Brasil oferece.
